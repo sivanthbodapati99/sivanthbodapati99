@@ -99,31 +99,43 @@ UC Berkeley Computer Science • VP of Technology @ CSUA • Research Strategy @
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🥔 Desk Potato
+<h3>🥔 Desk Potato</h3>
 
+<p>
 Real-time posture and eye-strain monitoring using computer vision and AI.
+</p>
 
-**CalHacks 2025 Finalist**
+<p><b>CalHacks 2025 Finalist</b></p>
 
-`Depth Anything V2` `Letta` `LiveKit`
+<p>
+<code>Depth Anything V2</code>
+<code>Letta</code>
+<code>LiveKit</code>
+</p>
 
 <a href="https://github.com/sivanthbodapati99/posture-detector-">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔬 PCB Defect Detection
+<h3>🔬 PCB Defect Detection</h3>
 
+<p>
 YOLO-based computer vision pipeline for automated PCB defect detection.
+</p>
 
-**23% relative performance improvement**
+<p><b>23% relative performance improvement</b></p>
 
-`YOLO` `Computer Vision` `Python`
+<p>
+<code>YOLO</code>
+<code>Computer Vision</code>
+<code>Python</code>
+</p>
 
 </td>
 </tr>
@@ -143,11 +155,25 @@ YOLO-based computer vision pipeline for automated PCB defect detection.
 
 ---
 
+### 🌱 Currently Exploring
+
+<div align="center">
+
+**Algorithms & Data Structures** • **Systems** • **Machine Learning** • **AI Infrastructure**
+
+<br>
+
+<sub>Building, breaking, learning, and building again.</sub>
+
+</div>
+
 ### ⚡ Engineering Philosophy
 
 <div align="center">
 
 > **Local-first. Modular. Build systems that actually work.**
+
+</div>
 
 ```python
 def build_system(workload):
