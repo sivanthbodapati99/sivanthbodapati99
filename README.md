@@ -24,19 +24,20 @@ uc berkeley cs • vp of tech @ csua • research strategy @ calcompute
 
 ---
 
-### key technical highlights
+### // technical highlights
 
-* **local ai infrastructure — ap0110 systems**  
-  Architected a 5-module AI infrastructure stack isolating core services, model management, persistence, GUI, and shared components for local LLM execution. Built Shimmy Core Service with automated lifecycle control and endpoint tracking, projecting a ~53% reduction in service overhead.
+```yaml
+ap0110_systems:
+  architecture: 5-module decoupled stack
+  focus: model-agnostic local llm lifecycle & zero-downtime service tracking
 
-* **computer vision and mlops — bfai semicon japan**  
-  Improved PCB defect detection by 23% relative (0.504 → 0.620) using a YOLO vision pipeline across 693 images and 6 defect classes. Designed a causal-inference GUI integrating SHAP feature attribution to isolate production defect root causes.
+bfai_semicon:
+  domain: computer vision & causal mlops
+  pipeline: yolo defect classification + shap feature attribution
 
-* **public compute strategy and ai cloud — calcompute**  
-  Co-authored technical recommendations for a statewide public AI cloud across a 10-campus UC coalition, translating GPU cost modeling, hardware deployment, and infrastructure research into policy framework reports.
-
-* **real-edge time vision — desk potato (calhacks 2025 finalist)**  
-  Built a real-time webcam posture and eye-strain tracker combining Depth Anything V2 depth segmentation, 3D facial plane mapping, Letta AI agents, and LiveKit low-latency audio pipelines.
+calcompute:
+  domain: public compute infrastructure
+  scope: gpu cost modeling & hardware topology for 10 UC campuses
 
 ---
 
