@@ -2,26 +2,27 @@
 
 # sivanth bodapati
 
-`eecs / cs @ uc berkeley` · `vp of tech @ csua` · `research officer @ calcompute`
+**AI Infrastructure & Computer Vision Engineer**
+
+UC Berkeley Computer Science[cite: 1] • VP of Technology @ CSUA[cite: 1] • Research Strategy @ CalCompute[cite: 1]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivanthb/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivanth.bodapati@gmail.com)[cite: 1]
-[![Berkeley Weather](https://wttr.in/Berkeley?format=%C+%t)](https://wttr.in/Berkeley)
 
 </div>
 
 ---
 
-### // SYSTEMS & RESEARCH HIGHLIGHTS
+### 🚀 Key Technical Highlights
 
 * 🤖 **Local AI Infrastructure (AP0110 Systems):** Architected a 5-module AI infrastructure stack separating core services, persistence, and GUI for model-agnostic local LLM workflows[cite: 1]. Built Shimmy Core Service for lifecycle automation, projecting a ~53% reduction in workload[cite: 1].
-* 🔬 **Enterprise Computer Vision (BFAI Semicon Japan):** Improved PCB defect-detection performance by 23% relative ($0.504 \rightarrow 0.620$) using a custom YOLO-based CV pipeline across 693 images and 6 defect classes[cite: 1]. Designed a causal-inference GUI using SHAP feature attribution and evaluated MLOps platforms for enterprise clients[cite: 1].
+* 🔬 **Enterprise Computer Vision (BFAI Semicon Japan):** Improved PCB defect-detection performance by 23% relative ($0.504 \rightarrow 0.620$) using a custom YOLO-based CV pipeline across 693 images and 6 defect classes[cite: 1]. Designed a causal-inference GUI using SHAP feature attribution[cite: 1] and evaluated MLOps platforms for clients including Panasonic, Fujitsu, and Nintendo.
 * 🏛️ **Public Compute Strategy (CalCompute):** Co-authored recommendations for a statewide public AI cloud across a 10-campus UC coalition, translating technical research into policy framework reports projected to save millions in aggregate compute costs[cite: 1].
 * 🥔 **Desk Potato (CalHacks Finalist):** Built real-time webcam posture tracking using Depth Anything v2 depth segmentation, facial plane mapping, Letta AI, and LiveKit low-latency streaming[cite: 1].
 
 ---
 
-### // TECHNICAL STACK
+### 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -40,12 +41,12 @@
 
 ---
 
-### // ACTIVITY & PROFILE
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sivanthbodapati99&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanthbodapati99&theme=github_dark&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sivanthbodapati99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanthbodapati99&theme=dark" />
 
 </div>
 
