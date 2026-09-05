@@ -17,3 +17,12 @@
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/sivanthb/) | [Email](mailto:sivanth.bodapati@gmail.com)[cite: 1]
 
 ---
+
+### 🚀 Key Technical Highlights
+
+* 🤖 **Local AI Infrastructure (AP0110 Systems):** Architected a 5-module AI infrastructure stack separating core services, persistence, and GUI for model-agnostic local LLM workflows[cite: 1]. Built Shimmy Core Service for lifecycle automation, projecting a ~53% reduction in workload[cite: 1].
+* 🔬 **Enterprise Computer Vision (BFAI Semicon Japan):** Improved PCB defect-detection performance by 23% relative ($0.504 \rightarrow 0.620$) using a YOLO-based CV pipeline across 693 images and 6 defect classes[cite: 1]. Designed a causal-inference GUI using SHAP feature attribution[cite: 1] and evaluated MLOps platforms for clients including Panasonic, Fujitsu, and Nintendo.
+* 🏛️ **Public Compute Strategy (CalCompute):** Co-authored recommendations for a statewide public AI cloud across a 10-campus UC coalition, translating technical research into policy framework reports projected to save millions in compute costs[cite: 1].
+* 🥔 **Desk Potato (CalHacks Finalist):** Built real-time webcam posture tracking using Depth Anything v2 depth segmentation, facial plane mapping, Letta AI, and LiveKit low-latency streaming[cite: 1].
+
+---
