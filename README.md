@@ -4,7 +4,7 @@
 
 **AI Systems · Infrastructure · Computer Vision · Mathematical Modeling**
 
-UC Berkeley EECS/CS • VP of Technology @ CSUA • Research Strategy @ CalCompute
+UC Berkeley CS @ 2029 • VP of Technology @ CSUA • Research Strategy @ CalCompute
 
 <br>
 
