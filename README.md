@@ -9,7 +9,7 @@ UC Berkeley CS • VP of Technology @ CSUA • Research Strategy @ CalCompute
 <br>
 
 <a href="https://www.linkedin.com/in/sivanthb/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sivanth.bodapati@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sivanth_bodapati@berkeley.edu"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1-0JP1O_TGvaLcXLxMg-g_9h8mVIvoD4m/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 
 </div>
