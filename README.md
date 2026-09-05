@@ -1,13 +1,19 @@
 <div align="center">
 
-# sivanth bodapati
+# ⚡ Sivanth Bodapati
 
-**AI Infrastructure & Computer Vision Engineer**
+### AI Infrastructure & Computer Vision Engineer
 
-UC Berkeley Computer Science[cite: 1] • VP of Technology @ CSUA[cite: 1] • Research Strategy @ CalCompute[cite: 1]
+UC Berkeley Computer Science • VP of Technology @ CSUA • Research Strategy @ CalCompute
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivanthb/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivanth.bodapati@gmail.com)[cite: 1]
+<br>
+
+<a href="https://www.linkedin.com/in/sivanthb/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sivanth.bodapati@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -15,49 +21,144 @@ UC Berkeley Computer Science[cite: 1] • VP of Technology @ CSUA[cite: 1] • R
 
 ### 🚀 Key Technical Highlights
 
-* 🤖 **Local AI Infrastructure (AP0110 Systems):** Architected a 5-module AI infrastructure stack separating core services, persistence, and GUI for model-agnostic local LLM workflows[cite: 1]. Built Shimmy Core Service for lifecycle automation, projecting a ~53% reduction in workload[cite: 1].
-* 🔬 **Enterprise Computer Vision (BFAI Semicon Japan):** Improved PCB defect-detection performance by 23% relative ($0.504 \rightarrow 0.620$) using a custom YOLO-based CV pipeline across 693 images and 6 defect classes[cite: 1]. Designed a causal-inference GUI using SHAP feature attribution[cite: 1] and evaluated MLOps platforms for clients including Panasonic, Fujitsu, and Nintendo.
-* 🏛️ **Public Compute Strategy (CalCompute):** Co-authored recommendations for a statewide public AI cloud across a 10-campus UC coalition, translating technical research into policy framework reports projected to save millions in aggregate compute costs[cite: 1].
-* 🥔 **Desk Potato (CalHacks Finalist):** Built real-time webcam posture tracking using Depth Anything v2 depth segmentation, facial plane mapping, Letta AI, and LiveKit low-latency streaming[cite: 1].
+- 🤖 **Local AI Infrastructure — AP0110 Systems**  
+  Architected a **5-module AI infrastructure stack** separating core services, model management, persistence, GUI, and shared components for model-agnostic local LLM workflows. Built **Shimmy Core Service** with lifecycle control, health monitoring, automatic restart, and endpoint tracking, projecting a **~53% reduction in service-management workload**.
+
+- 🔬 **Computer Vision — BFAI Semicon Japan**  
+  Improved PCB defect-detection performance by **23% relative (0.504 → 0.620)** using a custom YOLO-based computer-vision pipeline across **693 images, 2,953 annotations, and 6 defect classes**. Designed a causal-inference GUI using **SHAP feature attribution** and evaluated MLOps platforms across experiment tracking, visualization, and pipeline workflows.
+
+- 🥔 **Desk Potato — CalHacks 2025 Finalist**  
+  Built a real-time webcam system for **posture and eye-strain monitoring**, combining Depth Anything V2, facial analysis, Letta AI, and LiveKit for low-latency interaction.
+
+- 🏛️ **AI Infrastructure & Public Compute — CalCompute**  
+  Co-authored technical recommendations for a statewide public AI cloud across a **10-campus UC coalition**, translating infrastructure research into a framework for scalable compute access.
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <br/>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sivanthbodapati99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanthbodapati99&theme=dark" />
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://pytorch.org/">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</a>
+<a href="https://opencv.org/">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</a>
+<a href="https://www.tensorflow.org/">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</a>
+<a href="https://www.rust-lang.org/">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://www.linux.org/">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+<a href="https://kubernetes.io/">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="https://ollama.com/">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://www.sqlite.org/">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</a>
+<a href="https://www.huggingface.co/">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="https://www.ultralytics.com/">
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
+</a>
 
 </div>
 
 ---
 
-<details>
-<summary><b>⚡ Quick Code Snippet / Mindset</b></summary>
+### 🧪 Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🥔 Desk Potato
+
+Real-time posture and eye-strain monitoring using computer vision and AI.
+
+**CalHacks 2025 Finalist**
+
+`Depth Anything V2` `Letta` `LiveKit`
+
+<a href="https://github.com/sivanthbodapati99/posture-detector-">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔬 PCB Defect Detection
+
+YOLO-based computer vision pipeline for automated PCB defect detection.
+
+**23% relative performance improvement**
+
+`YOLO` `Computer Vision` `Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sivanthbodapati99&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanthbodapati99&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+### ⚡ Engineering Philosophy
+
+<div align="center">
+
+> **Local-first. Modular. Build systems that actually work.**
 
 ```python
-# System philosophy: Local-first, privacy-focused, modular.
-def deploy_infrastructure(workload):
+def build_system(workload):
+
     if workload.is_sensitive:
-        return run_local_llm(engine="Ollama", privacy_guarantee=True)
-    return optimize_mlops_pipeline(workload)
+        return run_local(
+            engine="Ollama",
+            privacy=True
+        )
+
+    return optimize(
+        workload,
+        for="reliability + scale"
+    )
