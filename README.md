@@ -40,3 +40,24 @@ UC Berkeley Computer Science • VP of Technology @ CSUA • Research Strategy @
 </p>
 
 ---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sivanthbodapati99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanthbodapati99&theme=dark" />
+
+</div>
+
+---
+
+<details>
+<summary><b>⚡ Quick Code Snippet / Mindset</b></summary>
+
+```python
+# System philosophy: Local-first, privacy-focused, modular.
+def deploy_infrastructure(workload):
+    if workload.is_sensitive:
+        return run_local_llm(engine="Ollama", privacy_guarantee=True)
+    return optimize_mlops_pipeline(workload)
