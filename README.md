@@ -149,7 +149,7 @@ YOLO-based computer vision pipeline for automated PCB defect detection.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sivanthbodapati99&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=sivanthbodapati99&theme=dark&hide_border=true" />
+
 
 </div>
 
