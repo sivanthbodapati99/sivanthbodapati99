@@ -67,7 +67,7 @@ uc berkeley cs • vp of technology @ csua • research strategy @ calcompute
 *real-time posture and eye-strain monitoring using computer vision and ai.*
 
 * **award:** calhacks 2025 finalist
-* **stack:** `depth anything v2` · `letta` · `livekit`
+* **stack:** `depth anything v2` · `letta` · `livekit`, `facial segmentation`
 
 <br>
 
