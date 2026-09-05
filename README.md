@@ -2,15 +2,15 @@
 
 # sivanth bodapati
 
-**AI Systems · Infrastructure · Computer Vision · Mathematical Modeling**
+**ai infrastructure · cloud computing · computer vision + architecture · mathematical modeling · wikipedia enthusiast**
 
-UC Berkeley CS • VP of Technology @ CSUA • Research Strategy @ CalCompute
+uc berkeley cs • vp of technology @ csua • research strategy @ calcompute
 
 <br>
 
-<a href="https://www.linkedin.com/in/sivanthb/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sivanth_bodapati@berkeley.edu"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1-0JP1O_TGvaLcXLxMg-g_9h8mVIvoD4m/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sivanthb/"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sivanth_bodapati@berkeley.edu"><img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1-0JP1O_TGvaLcXLxMg-g_9h8mVIvoD4m/view?usp=sharing"><img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 
 </div>
 
@@ -18,25 +18,18 @@ UC Berkeley CS • VP of Technology @ CSUA • Research Strategy @ CalCompute
 
 ### core engineering focus
 
-* **systems & hardware** — AI servers, cloud architecture, system performance & optimization
+* **systems & hardware** — ai servers, cloud architecture, system performance & optimization
 * **math & modeling** — optimization models, causal inference, mathematical abstraction
-* **ai & infrastructure** — local-first LLM stacks, computer vision pipelines, MLOps orchestration
+* **ai & infrastructure** — local-first llm stacks, computer vision pipelines, mlops orchestration
 
 ---
 
 ### systems & architecture
 
-* **AP0110 / Shimmy Core**  
-  Modularizing local LLM execution. Built an isolated 5-service pipeline (core, persistence, model management, GUI) with automated lifecycle recovery to minimize daemon management overhead.
-
-* **BFAI Semicon Japan**  
-  YOLO-based yield optimization for PCB defect classification. Paired real-time vision inference with SHAP causal attribution to trace visual anomalies back to manufacturing parameters.
-
-* **CalCompute**  
-  Translating GPU cost models and hardware topology into deployment strategy for a statewide public AI cloud across a 10-campus UC coalition.
-
-* **Desk Potato**  
-  Sub-100ms multi-modal edge pipeline: Depth Anything V2 segmentation + 3D facial plane estimation fed into Letta agents over LiveKit low-latency streams. *CalHacks 2025 Finalist*.
+* **ap0110 / shimmy core** — modular local llm execution. isolated 5-service pipeline with automated lifecycle recovery.
+* **bfai semicon japan** — yolo yield optimization for pcb defect classification paired with shap causal attribution.
+* **calcompute** — gpu cost modeling and hardware topology for a statewide public ai cloud across 10 uc campuses.
+* **desk potato** — sub-100ms multi-modal edge pipeline using depth anything v2, 3d facial plane estimation, letta, and livekit. *calhacks 2025 finalist*.
 
 ---
 
@@ -44,21 +37,21 @@ UC Berkeley CS • VP of Technology @ CSUA • Research Strategy @ CalCompute
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/opencv-000000?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/c%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
 </div>
 
@@ -70,25 +63,25 @@ UC Berkeley CS • VP of Technology @ CSUA • Research Strategy @ CalCompute
 <tr>
 <td width="50%" valign="top">
 
-### 🥔 Desk Potato
-*real-time posture and eye-strain monitoring using computer vision and AI.*
+### desk potato
+*real-time posture and eye-strain monitoring using computer vision and ai.*
 
-* **award:** CalHacks 2025 Finalist
-* **stack:** `Depth Anything V2` · `Letta` · `LiveKit`
+* **award:** calhacks 2025 finalist
+* **stack:** `depth anything v2` · `letta` · `livekit`
 
 <br>
 
-<a href="https://github.com/sivanthbodapati99/posture-detector-"><img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sivanthbodapati99/posture-detector-"><img src="https://img.shields.io/badge/view_repository-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔬 PCB Defect Detection
-*YOLO-based computer vision pipeline for automated PCB defect detection.*
+### pcb defect detection
+*yolo-based computer vision pipeline for automated pcb defect detection.*
 
 * **metric:** 23% relative improvement (0.504 → 0.620)
-* **stack:** `YOLO` · `SHAP` · `OpenCV` · `Python`
+* **stack:** `yolo` · `shap` · `opencv` · `python`
 
 </td>
 </tr>
