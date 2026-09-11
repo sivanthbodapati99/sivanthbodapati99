@@ -133,7 +133,6 @@ uc berkeley cs • vp of technology @ csua • research strategy @ calcompute
 </td>
 </tr>
 </table>
----
 
 ### github activity
 
