@@ -92,7 +92,6 @@ uc berkeley cs • vp of technology @ csua • research strategy @ calcompute
 
 **private / project work**
 
-<strong>private / project work</strong>
 
 </td>
 </tr>
