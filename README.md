@@ -64,29 +64,74 @@ uc berkeley cs • vp of technology @ csua • research strategy @ calcompute
 <td width="50%" valign="top">
 
 ### desk potato
+
 *real-time posture and eye-strain monitoring using computer vision and ai.*
 
-* **award:** calhacks 2025 finalist
-* **stack:** `depth anything v2` · `letta` · `livekit`, `facial segmentation`
+- **award:** calhacks 2025 finalist
+- **stack:** `depth anything v2` · `letta` · `livekit` · `facial segmentation`
 
 <br>
 
-<a href="https://github.com/sivanthbodapati99/posture-detector-"><img src="https://img.shields.io/badge/view_repository-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sivanthbodapati99/posture-detector-">
+  <img src="https://img.shields.io/badge/view_repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
 ### pcb defect detection
+
 *yolo-based computer vision pipeline for automated pcb defect detection.*
 
-* **metric:** 23% relative improvement (0.504 → 0.620)
-* **stack:** `yolo` · `shap` · `opencv` · `python`
+- **metric:** 23% relative improvement (0.504 → 0.620)
+- **stack:** `yolo` · `shap` · `opencv` · `python`
+
+<br>
+
+<sub>private / project work</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ap0110 ai
+
+*local-first ai infrastructure for running and managing self-hosted language models.*
+
+- **work:** built the shimmy core service for lifecycle control, health monitoring, automatic restart, and endpoint tracking
+- **architecture:** modular infrastructure separating core services, model management, persistence, gui, and shared components
+- **stack:** `rust` · `ollama` · `sqlite` · `local llm infrastructure`
+
+<br>
+
+<a href="https://github.com/sivanthbodapati99/AP0110-AI">
+  <img src="https://img.shields.io/badge/view_repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### csua website
+
+*rebuilding the web presence for uc berkeley's computer science undergraduate association.*
+
+- **work:** redesigning the frontend around csua's events, resources, community, and existing backend infrastructure
+- **focus:** fluid interactions, responsive design, and integration with csua's existing backend
+- **stack:** `javascript` · `frontend` · `ui/ux` · `api integration`
+
+<br>
+
+<a href="https://github.com/sivanthbodapati99/csua-website-V1">
+  <img src="https://img.shields.io/badge/view_repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ### github activity
