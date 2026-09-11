@@ -101,6 +101,7 @@ uc berkeley cs • vp of technology @ csua • research strategy @ calcompute
 
 *local-first ai infrastructure for running and managing self-hosted language models.*
 
+- **collaboration:** developed with [daniel romo](https://github.com/DanielRedacted)
 - **work:** built the shimmy core service for lifecycle control, health monitoring, automatic restart, and endpoint tracking
 - **architecture:** modular infrastructure separating core services, model management, persistence, gui, and shared components
 - **stack:** `rust` · `ollama` · `sqlite` · `local llm infrastructure`
