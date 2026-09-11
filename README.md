@@ -84,10 +84,13 @@ uc berkeley cs • vp of technology @ csua • research strategy @ calcompute
 
 *yolo-based computer vision pipeline for automated pcb defect detection.*
 
+- **collaboration:** developed with [bfai semiconductor solutions corporation](https://github.com/BFAI-Semicon)
 - **metric:** 23% relative improvement (0.504 → 0.620)
 - **stack:** `yolo` · `shap` · `opencv` · `python`
 
 <br>
+
+**private / project work**
 
 <strong>private / project work</strong>
 
